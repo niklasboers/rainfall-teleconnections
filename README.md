@@ -50,5 +50,3 @@ computes composite anomalies of meridional wind speeds, geopotential height, and
 ### 15. v_gph_psi_anomalies_plots.py
 plots the composite anomalies of meridional wind speeds, geopotential height, and streamfunction
 
-### 16. mpi.py
-Code used for parallelization
