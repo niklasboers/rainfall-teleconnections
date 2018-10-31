@@ -1,6 +1,12 @@
 # rainfall-teleconnections
 Python code to compute global teleconnections from rainfall data
 
+## Author
+Niklas Boers
+
+## License
+This work is licensed under the GNU General Public License v3.0. For details please read LICENSE.txt.
+
 ## General notes
 This repository hosts python code to compute network representations of synchronizations between extreme rainfall events at different locations on the globe. The analysis is based on the Tropical Rainfall Measurement Mission (TRMM) 3B42 V7 dataset, which is available for download at https://pmm.nasa.gov/data-access/downloads/trmm.
 
