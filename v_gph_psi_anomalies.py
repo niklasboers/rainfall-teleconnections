@@ -58,7 +58,7 @@ clim[:3] = np.mean(data[:, jja_indices], axis = 1)
 clim[3, 0] = np.mean(pr1[jja_indices], axis = 0)
 clim[4, 0] = np.mean(pr2[jja_indices], axis = 0)
 
-
+m=0
 taumax = 10
 shift = [-14, -12, -10, -8, -6, -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5, 6, 8, 10, 12, 14]
 
